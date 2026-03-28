@@ -38,5 +38,11 @@ The dashboard provides clear insights into sales trends, profitability, and prod
 - `sales_data.xlsx` – Dataset used for building the dashboard
 
 
+ ## ▶️ How to Use
+1. Download the .pbix file  
+2. Open it using Microsoft Power BI Desktop  
+3. Explore the dashboard using filters and visuals  
+
+
 ## 🚀 Conclusion
 This project demonstrates how raw data can be transformed into meaningful insights using Power BI, helping businesses make data-driven decisions.
