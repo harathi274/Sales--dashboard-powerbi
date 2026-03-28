@@ -31,11 +31,12 @@ The dashboard provides clear insights into sales trends, profitability, and prod
 ## 📷 Dashboard Preview
 ![Dashboard](dashboard.png)
 
+
 ## 📁 Files Included
 - `sales-dashboard.pbix` – Power BI dashboard file
 - `dashboard.png` – Dashboard preview image
+- `sales_data.xlsx` – Dataset used for building the dashboard
 
----
 
 ## 🚀 Conclusion
 This project demonstrates how raw data can be transformed into meaningful insights using Power BI, helping businesses make data-driven decisions.
